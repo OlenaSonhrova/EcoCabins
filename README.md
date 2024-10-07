@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="hhttps://github.com/OlenaSonhrova/image/blob/main/EcoCabins3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins1.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins2.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OlenaSonhrova/image/blob/main/EcoCabins3.jpg?raw=true" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 Welcome to my web development project! This website is designed to demonstrate my skills in web development, including HTML, CSS, and JavaScript. Below you will find information about the project, how to run it locally, and a showcase of its features.
